@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://iyanyu.github.io/nav',
+  homeUrl: 'https://iyanyu.vercel.app/',
   
   // 网站标题
   title: '言余-新世界',
