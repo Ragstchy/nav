@@ -11,22 +11,22 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: flase,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://iyanyu.github.io/nav',
+  homeUrl: 'https://dianshangxianfeng.com/',
   
   // 网站标题
-  title: '言余-新世界',
+  title: '电商先锋导肮',
 
   // 网站描述
-  description: '运营星球,言余',
+  description: '电商先锋拥有千万级的黑号数据库,拥有查降权黑号,标签权重评估,创客照妖镜,淘宝查号,淘客订单检测,实时查排名,买家秀采集等功能,致力于解决多个运营问题,成为电商人必备的运营神器',
 
   // 网站关键字
-  keywords: '导航,电商干货,社区站点,淘宝论坛,实用工具,学习资源,查号,查电商,运营星球',
+  keywords: '创客照妖镜,淘宝查号,电商先锋,宝贝排名查询,指数转换工具,淘宝数据分析工具,淘宝排行榜流量查询,天猫淘宝店铺关注',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
-  theme: 'Side',
+  theme: 'light',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
